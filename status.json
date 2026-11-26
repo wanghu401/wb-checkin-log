@@ -1,13 +1,13 @@
 {
- "action": "already",
+ "action": "checked_in",
  "credit": 100,
- "streak_days": 58,
- "total_credits": 5800,
+ "streak_days": 59,
+ "total_credits": 5900,
  "activity_name": "Buddy应用",
  "start_time": "2026-09-30",
  "end_time": "2026-12-31",
- "end_left_days": 35,
- "token_days_left": 22.6,
- "date": "2026-11-26",
- "run_at": "2026-11-26T21:03:46+08:00"
+ "end_left_days": 34,
+ "token_days_left": 22.4,
+ "date": "2026-11-27",
+ "run_at": "2026-11-27T01:15:40+08:00"
 }
