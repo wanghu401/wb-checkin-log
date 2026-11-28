@@ -1,5 +1,5 @@
 {
- "action": "checked_in",
+ "action": "already",
  "credit": 100,
  "streak_days": 60,
  "total_credits": 6000,
@@ -7,7 +7,7 @@
  "start_time": "2026-09-30",
  "end_time": "2026-12-31",
  "end_left_days": 33,
- "token_days_left": 21.4,
+ "token_days_left": 20.8,
  "date": "2026-11-28",
- "run_at": "2026-11-28T00:55:58+08:00"
+ "run_at": "2026-11-28T16:51:06+08:00"
 }
